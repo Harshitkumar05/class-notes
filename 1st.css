@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.header{
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(0, 255, 51, 0.5)),
+url("resume\ backround\ img.jpg");
+    background-position: center;
+    background-size: cover;
+    position: relative;}
+    
+    
